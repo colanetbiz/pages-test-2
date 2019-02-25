@@ -1,7 +1,8 @@
 # The Top of the Page
-|TABLE OF LINKS                |FOR NAVIGATING                       |THE SITE                      |
-|----------------|-------------------------------|-----------------------------|
-|[Jekyll](https://jekyllrb.com/)                |[SciWay](https://www.sciway.net)                       |[CoffeeCup](https://www.coffeecup.com/)                      |
+
+
+
+[Jekyll](https://jekyllrb.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SciWay](https://www.sciway.net)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CoffeeCup](https://www.coffeecup.com/)                      
 
 ## Welcome to GitHub Pages
 
